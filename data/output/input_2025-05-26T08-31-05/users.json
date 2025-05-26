@@ -1,0 +1,951 @@
+[ {
+  "first_name" : "Alban",
+  "last_name" : "Roche",
+  "email" : "alban.roche@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Najwa",
+  "last_name" : "Güler",
+  "email" : "najwa.güler@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Thibault",
+  "last_name" : "Dupont",
+  "email" : "thibault.dupont@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Valdemar",
+  "last_name" : "Rasmussen",
+  "email" : "valdemar.rasmussen@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 2,
+    "failed" : 0
+  },
+  "grade_average" : 1.5
+}, {
+  "first_name" : "Maria",
+  "last_name" : "Owens",
+  "email" : "maria.owens@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 1.0
+}, {
+  "first_name" : "Violet",
+  "last_name" : "Williams",
+  "email" : "violet.williams@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Jo",
+  "last_name" : "Woldseth",
+  "email" : "jo.woldseth@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 4.0
+}, {
+  "first_name" : "Aria",
+  "last_name" : "Li",
+  "email" : "aria.li@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 2.0
+}, {
+  "first_name" : "Jéssica",
+  "last_name" : "Rodrigues",
+  "email" : "jéssica.rodrigues@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 2.0
+}, {
+  "first_name" : "Phillip",
+  "last_name" : "Hanson",
+  "email" : "phillip.hanson@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Victoria",
+  "last_name" : "Herrero",
+  "email" : "victoria.herrero@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 2.0
+}, {
+  "first_name" : "Callum",
+  "last_name" : "Owens",
+  "email" : "callum.owens@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Melissa",
+  "last_name" : "Kvalheim",
+  "email" : "melissa.kvalheim@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Isaac",
+  "last_name" : "Hughes",
+  "email" : "isaac.hughes@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Elliott",
+  "last_name" : "Klapwijk",
+  "email" : "elliott.klapwijk@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 0,
+    "failed" : 1
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Alexander",
+  "last_name" : "Morris",
+  "email" : "alexander.morris@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Tania",
+  "last_name" : "Garcia",
+  "email" : "tania.garcia@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 0,
+    "failed" : 1
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Matheo",
+  "last_name" : "Nordsveen",
+  "email" : "matheo.nordsveen@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 4.0
+}, {
+  "first_name" : "Beau",
+  "last_name" : "Walker",
+  "email" : "beau.walker@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Barbara",
+  "last_name" : "Graves",
+  "email" : "barbara.graves@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 0,
+    "failed" : 1
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Molly",
+  "last_name" : "Cook",
+  "email" : "molly.cook@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 0,
+    "failed" : 1
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Gloria",
+  "last_name" : "Sánchez",
+  "email" : "gloria.sánchez@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 1.0
+}, {
+  "first_name" : "Alba",
+  "last_name" : "Pastor",
+  "email" : "alba.pastor@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 4.0
+}, {
+  "first_name" : "Warren",
+  "last_name" : "Day",
+  "email" : "warren.day@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 4.0
+}, {
+  "first_name" : "Jonas",
+  "last_name" : "Lecomte",
+  "email" : "jonas.lecomte@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Ruben",
+  "last_name" : "Baker",
+  "email" : "ruben.baker@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Carrie",
+  "last_name" : "Ramirez",
+  "email" : "carrie.ramirez@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 0,
+    "failed" : 1
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Nathaniel",
+  "last_name" : "Watson",
+  "email" : "nathaniel.watson@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Elena",
+  "last_name" : "Meise",
+  "email" : "elena.meise@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 1.0
+}, {
+  "first_name" : "Isabella",
+  "last_name" : "Harris",
+  "email" : "isabella.harris@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Joel",
+  "last_name" : "Lassila",
+  "email" : "joel.lassila@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 5.0
+}, {
+  "first_name" : "Alberte",
+  "last_name" : "Jørgensen",
+  "email" : "alberte.jørgensen@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 2.0
+}, {
+  "first_name" : "Marlène",
+  "last_name" : "Sanchez",
+  "email" : "marlène.sanchez@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 4.0
+}, {
+  "first_name" : "Anaëlle",
+  "last_name" : "Aubert",
+  "email" : "anaëlle.aubert@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 0,
+    "failed" : 1
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Dwayne",
+  "last_name" : "Murphy",
+  "email" : "dwayne.murphy@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 4.0
+}, {
+  "first_name" : "Brad",
+  "last_name" : "Valk",
+  "email" : "brad.valk@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 5.0
+}, {
+  "first_name" : "Songül",
+  "last_name" : "Korb",
+  "email" : "songül.korb@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Emma",
+  "last_name" : "Margaret",
+  "email" : "emma.margaret@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Elli",
+  "last_name" : "Hurlen",
+  "email" : "elli.hurlen@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 0,
+    "failed" : 1
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Scarlett",
+  "last_name" : "Snyder",
+  "email" : "scarlett.snyder@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 1.0
+}, {
+  "first_name" : "Marlene",
+  "last_name" : "Grav",
+  "email" : "marlene.grav@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 1.0
+}, {
+  "first_name" : "Helga",
+  "last_name" : "Gaillard",
+  "email" : "helga.gaillard@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Zeynep",
+  "last_name" : "Renaud",
+  "email" : "zeynep.renaud@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 5.0
+}, {
+  "first_name" : "Owen",
+  "last_name" : "Kowalski",
+  "email" : "owen.kowalski@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 2,
+    "failed" : 0
+  },
+  "grade_average" : 2.0
+}, {
+  "first_name" : "Magnus",
+  "last_name" : "Møller",
+  "email" : "magnus.møller@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Alex",
+  "last_name" : "Douglas",
+  "email" : "alex.douglas@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 1.0
+}, {
+  "first_name" : "Same",
+  "last_name" : "Armstrong",
+  "email" : "same.armstrong@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 4.0
+}, {
+  "first_name" : "Minna",
+  "last_name" : "Sonnenberg",
+  "email" : "minna.sonnenberg@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 5.0
+}, {
+  "first_name" : "Noah",
+  "last_name" : "Taylor",
+  "email" : "noah.taylor@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Oscar",
+  "last_name" : "Chambers",
+  "email" : "oscar.chambers@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Gaëtan",
+  "last_name" : "Lacroix",
+  "email" : "gaëtan.lacroix@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Gwendolyn",
+  "last_name" : "White",
+  "email" : "gwendolyn.white@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Luka",
+  "last_name" : "Meyer",
+  "email" : "luka.meyer@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Dâni",
+  "last_name" : "Silveira",
+  "email" : "dâni.silveira@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 2.0
+}, {
+  "first_name" : "Matthew",
+  "last_name" : "Novak",
+  "email" : "matthew.novak@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 1.0
+}, {
+  "first_name" : "Cecy",
+  "last_name" : "Viana",
+  "email" : "cecy.viana@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Mia",
+  "last_name" : "Lam",
+  "email" : "mia.lam@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Ekaterina",
+  "last_name" : "Witt",
+  "email" : "ekaterina.witt@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Mario",
+  "last_name" : "Sleire",
+  "email" : "mario.sleire@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 1.0
+}, {
+  "first_name" : "William",
+  "last_name" : "Carpentier",
+  "email" : "william.carpentier@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Evie",
+  "last_name" : "Green",
+  "email" : "evie.green@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Tilia",
+  "last_name" : "Solås",
+  "email" : "tilia.solås@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 1.0
+}, {
+  "first_name" : "Fletcher",
+  "last_name" : "Green",
+  "email" : "fletcher.green@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Austin",
+  "last_name" : "King",
+  "email" : "austin.king@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 2.0
+}, {
+  "first_name" : "Leon",
+  "last_name" : "Robinson",
+  "email" : "leon.robinson@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Caroline",
+  "last_name" : "Jørgensen",
+  "email" : "caroline.jørgensen@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 5.0
+}, {
+  "first_name" : "Myrtle",
+  "last_name" : "Montgomery",
+  "email" : "myrtle.montgomery@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 1.0
+}, {
+  "first_name" : "Jesper",
+  "last_name" : "Boertien",
+  "email" : "jesper.boertien@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Clayton",
+  "last_name" : "Butler",
+  "email" : "clayton.butler@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 1.0
+}, {
+  "first_name" : "Hélèna",
+  "last_name" : "Gonzalez",
+  "email" : "hélèna.gonzalez@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Ashton",
+  "last_name" : "Singh",
+  "email" : "ashton.singh@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Matteo",
+  "last_name" : "Martens",
+  "email" : "matteo.martens@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 5.0
+}, {
+  "first_name" : "Sophie",
+  "last_name" : "Neal",
+  "email" : "sophie.neal@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 4.0
+}, {
+  "first_name" : "Cristóbal",
+  "last_name" : "Castro",
+  "email" : "cristóbal.castro@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 4.0
+}, {
+  "first_name" : "Ashton",
+  "last_name" : "Moore",
+  "email" : "ashton.moore@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Nella",
+  "last_name" : "Moilanen",
+  "email" : "nella.moilanen@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 2,
+    "failed" : 0
+  },
+  "grade_average" : 4.0
+}, {
+  "first_name" : "Eemil",
+  "last_name" : "Saari",
+  "email" : "eemil.saari@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 5.0
+}, {
+  "first_name" : "Johny",
+  "last_name" : "Wobben",
+  "email" : "johny.wobben@example.com",
+  "course_results" : {
+    "inprogress" : 2,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Dovydas",
+  "last_name" : "Urke",
+  "email" : "dovydas.urke@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Aderico",
+  "last_name" : "de Souza",
+  "email" : "aderico.de souza@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Timeo",
+  "last_name" : "Arnaud",
+  "email" : "timeo.arnaud@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Maxime",
+  "last_name" : "Blanchard",
+  "email" : "maxime.blanchard@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 4.0
+}, {
+  "first_name" : "Sofia",
+  "last_name" : "French",
+  "email" : "sofia.french@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 2.0
+}, {
+  "first_name" : "Ambre",
+  "last_name" : "Clement",
+  "email" : "ambre.clement@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 0,
+    "failed" : 1
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Johanne",
+  "last_name" : "Helvik",
+  "email" : "johanne.helvik@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 0,
+    "failed" : 1
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Jacob",
+  "last_name" : "Ennis",
+  "email" : "jacob.ennis@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 2,
+    "failed" : 0
+  },
+  "grade_average" : 4.5
+}, {
+  "first_name" : "Aleksi",
+  "last_name" : "Haataja",
+  "email" : "aleksi.haataja@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 0,
+    "failed" : 1
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Nolan",
+  "last_name" : "Schmitt",
+  "email" : "nolan.schmitt@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 2.0
+}, {
+  "first_name" : "Eleanor",
+  "last_name" : "Allen",
+  "email" : "eleanor.allen@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 4.0
+}, {
+  "first_name" : "Remo",
+  "last_name" : "Hollmann",
+  "email" : "remo.hollmann@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 1.0
+}, {
+  "first_name" : "Lisa",
+  "last_name" : "Fowler",
+  "email" : "lisa.fowler@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 3.0
+}, {
+  "first_name" : "Jorge",
+  "last_name" : "Márquez",
+  "email" : "jorge.márquez@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Kevin",
+  "last_name" : "Hawkins",
+  "email" : "kevin.hawkins@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 1,
+    "failed" : 0
+  },
+  "grade_average" : 1.0
+}, {
+  "first_name" : "Centa",
+  "last_name" : "Wacker",
+  "email" : "centa.wacker@example.com",
+  "course_results" : {
+    "inprogress" : 0,
+    "completed" : 0,
+    "failed" : 1
+  },
+  "grade_average" : null
+}, {
+  "first_name" : "Frederick",
+  "last_name" : "Berry",
+  "email" : "frederick.berry@example.com",
+  "course_results" : {
+    "inprogress" : 1,
+    "completed" : 0,
+    "failed" : 0
+  },
+  "grade_average" : null
+} ]
