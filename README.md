@@ -51,7 +51,7 @@ Copy any .csv file into the data/input/ directory. The app checks for new files 
 
 ```csv
 Etunimi,Sukunimi,E-mail,Kurssin nimi,Kurssi alkaa,Kurssi päättyy,Status,Arvosana,Kurssin suorituspäivämäärä
-Elli,Hurlen,elli@example.com,Kiertotalous.nyt,2022-10-18,2022-12-31,completed,1,2022-10-22
+esimerkki,esimerkkinen,esimerkki@example.com,esimerkki.nyt,2022-10-18,2022-12-31,completed,1,2022-10-22
 ```
 
 ---
